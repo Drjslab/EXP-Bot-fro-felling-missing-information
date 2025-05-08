@@ -1,0 +1,6 @@
+{
+    "movieName":"Name of movie",
+    "persons": "No of persons Adult",
+    "minor":"No of Minors",
+    "show_time": "Time of Screening"
+}
